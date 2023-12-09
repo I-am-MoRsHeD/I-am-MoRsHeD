@@ -1,20 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18162
-Fork on GitHub
-5352
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm I-am-MoRsHeD</h1>
+<h1 align="center">Hi 👋, I'm Md Morshed</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-morshed&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-morshed" /> </p>
