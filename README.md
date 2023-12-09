@@ -30,6 +30,33 @@
 <h3 align="left">My Github streaks: </h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=I-am-MoRsHeD&theme=whatsapp-dark2&border_radius=5" alt="GitHub Streak" /></a>
 
+
+<h2 align="left">Projects : </h2>
+<h3 align="left">Cooking God</h3>
+<a href="https://hostel-management-client12.web.app/">Live Link</a>
+<h4 align="left">Features: </h4>
+<p>1.Customized this site wtith user experiences and the site offers three distinct user rules such as admins,premium users and normal users.For every position has their own dashboard.</p>
+<p>2.Admin can access users activity and can add meals and other important works.Premium users can like and request for meals.Normal users just can see meals,upcoming meals and give review,cannot like and request for any meals</p>
+
+<h3 align="left">JobsWorld</h3>
+<a href="https://jobs-world-client-am11.web.app/">Live Link</a>
+<h4 align="left">Features: </h4>
+<p>1.The site offers with two position of an applicant.In the same site one can add jobs or hire employee and that same person can apply for a job or jobs.</p>
+<p>2.But no one can apply for jobs that he added.One who added a job,he can update jobs information and other details also.</p>
+
+<h3 align="left">Tech Brand</h3>
+<a href="https://tech-brand.web.app/">Live Link</a>
+<h4 align="left">Features: </h4>
+<p>1.This site describes a branding shop details like accessories,phones,airpods etc.</p>
+<p>2.Anyone can add a product through add table and can cart any product..</p>
+<p>2.But for add,see details and update an item,an user need to login or register.Then he/she can do!</p>
+
+
+
+
+
+
+
 <h3 align="left">GitHub Profile Summary Cards : </h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-am-MoRsHeD&theme=solarized_dark)
