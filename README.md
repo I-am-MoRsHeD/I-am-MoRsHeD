@@ -38,7 +38,24 @@
 <p>1.Customized this site wtith user experiences and the site offers three distinct user rules such as admins,premium users and normal users.For every position has their own dashboard.</p>
 <p>2.Admin can access users activity and can add meals and other important works.Premium users can like and request for meals.Normal users just can see meals,upcoming meals and give review,cannot like and request for any meals</p>
 
-<h3 align="left">JobsWorld</h3>
+<h3 align="left">Vip Tailor</h3>
+<a href="https://vip-tailor.vercel.app">Live Link</a>
+<h4 align="left">Features: </h4>
+<p>1.This is an Inventory Management System website with different functionalities.</p>
+<p>2.There is two types of users such as User(can be caleed Employee) and Admin.</p>
+<p>2.Admin will handle the employee information and everything overall</p>
+<p>2.Employee will be responsible for stock handilng and selling</p>
+
+<h3 align="left">Super Shop</h3>
+<a href="https://super-shop-project-2.vercel.app">Live Link</a>
+<h4 align="left">Features: </h4>
+<p>1.This is also an Inventory Management System website with different functionalities.</p>
+<p>2.There is two types of users such as Employee and Admin.</p>
+<p>2.Admin will handle the employee information and admin can change the branch to see what is happening in branch.</p>
+<p>Admin can change the Employee role in different branch and can change role of one admin to employee</p>
+<p>2.Employee will be responsible for stock handilng and selling</p>
+
+<h3 align="left">Jobs World</h3>
 <a href="https://wondrous-trifle-3074aa.netlify.app/">Live Link</a>
 <h4 align="left">Features: </h4>
 <p>1.The site offers with two position of an applicant.In the same site one can add jobs or hire employee and that same person can apply for a job or jobs.</p>
