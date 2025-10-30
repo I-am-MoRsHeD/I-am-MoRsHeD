@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/QkC8wpS/Minimal-Online-Business-Facebook-Cover-Photo.png" alt="cover photo" >
+<img src="https://res.cloudinary.com/dt3h4wx0k/image/upload/v1761852137/Neutral_Creative_Professional_LinkedIn_Article_Cover_Image_cwz2ig.png" alt="cover photo" >
 <h1 align="center">Hi 👋, I'm Md Morshed</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-morshed&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-morshed" /> </p>
